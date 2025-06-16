@@ -145,7 +145,8 @@ The **Solar Storm Power Grid Impact Dataset** includes 1,000 rows × 9 columns:
 </p>
 
 <p align="center">
-  <img src="https://github.com/Souvik-Rana/Souvik-Rana/blob/e7e77b01346caa8d86d548a54ffeb41716a210b6/SOUVIK%20RANA%20BANNER.jpg" alt="Project Banner" width="100%">
+  <img src="<img src="https://raw.githubusercontent.com/souvikrana17/souvikrana17/main/SOUVIK%20RANA%20BANNER.jpg" alt="Project Banner" width="100%">
+">
 </p>
 
 ---
