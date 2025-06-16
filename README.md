@@ -130,22 +130,22 @@ The **Solar Storm Power Grid Impact Dataset** includes 1,000 rows × 9 columns:
 
 <p align="center">
   <b> SOUVIK RANA </b><br>
-  <br><a href="https://github.com/Souvik-Rana">
+  <br><a href="https://github.com/souvikrana17">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/souvik-rana-19a797221/">
+  <a href="https://www.linkedin.com/in/souvikrana17/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/souvikrana">
+  <a href="https://www.kaggle.com/souvikrana17">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://souvik-rana.vercel.app">
+  <a href="https://souvikrana17.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Souvik-Rana/Souvik-Rana/blob/e7e77b01346caa8d86d548a54ffeb41716a210b6/SOUVIK%20RANA%20BANNER.png" alt="Project Banner" width="100%">
+  <img src="https://github.com/Souvik-Rana/Souvik-Rana/blob/e7e77b01346caa8d86d548a54ffeb41716a210b6/SOUVIK%20RANA%20BANNER.jpg" alt="Project Banner" width="100%">
 </p>
 
 ---
